@@ -1,11 +1,11 @@
-# Examen Parcial – Construcción de Software  
-## Sistema de Ventas Web (HTML / CSS / JavaScript + Git)
+# Examen Final – Construcción de Software  
+## Sistema de Ventas Web (HTML / CSS / JavaScript + Git) u tecnologia alterna
 
 ### Curso
 Construcción de Software
 
 ### Modalidad
-Trabajo grupal – Evaluación práctica
+Trabajo grupal – Simulacion de entorno real de trabajo
 
 ---
 
@@ -29,29 +29,32 @@ El cliente ha entregado una **base funcional mínima**, pero solicita **correcci
 
 ## 3. Alcance técnico
 
-El sistema está desarrollado únicamente con:
+El sistema está desarrollado inicialmente con:
 
 - HTML
 - CSS
 - JavaScript (Vanilla JS)
-- Almacenamiento local (`localStorage`)
+- Almacenamiento local (`localStorage`) o base de datos
 - Git (repositorio remoto)
 
 Si el grupo lo considera pertinente, puede usar cualquier otra tecnologia como ReactJS, VueJS, AngularJS, Laravel, etc, siempre y cuando se cumplan los requisitos
 
-Estructura basica del proyecto
-
-├── index.html # Login
-├── inicio.html # Panel principal
-├── vender.html # Registro de ventas
-├── css/
-│ └── styles.css
-├── js/
-│ ├── app.js # Login
-│ ├── layout.js # Sesión, menú, logout
-│ └── vender.js # Lógica de ventas
-
----
-
 ## 4. Estructura base del proyecto
+├── index.html # Login
+
+├── inicio.html # Panel principal
+
+├── vender.html # Registro de ventas
+
+├── css/
+
+│ └── styles.css
+
+├── js/
+
+│ ├── app.js # Login
+
+│ ├── layout.js # Sesión, menú, logout
+
+│ └── vender.js # Lógica de ventas
 
