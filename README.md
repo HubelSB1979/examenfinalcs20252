@@ -62,4 +62,3 @@ Si el grupo lo considera pertinente, puede usar cualquier otra tecnologia como R
 ## 5. Evaluacion 
 - Se debera de enviar el enlace git al whastapp personal del docente.
 - Al finalizar el tiempo el docente se acercara para consultar que tecnologia usaron.
-- 
